@@ -1,0 +1,87 @@
+{
+    "Pregunta": "¿Qué tipo de lectura prefieres?",
+    "OpcionSi": {
+        "Pregunta": "¿Te gusta la fantasía épica?",
+        "OpcionSi": {
+            "Pregunta": "¿Prefieres mundos complejos?",
+            "OpcionSi": {
+                "Recomendacion": "El nombre del viento - Patrick Rothfuss"
+            },
+            "OpcionNo": {
+                "Pregunta": "¿Te gustan los elfos y dragones?",
+                "OpcionSi": {
+                    "Recomendacion": "El señor de los anillos - J.R.R. Tolkien"
+                },
+                "OpcionNo": {
+                    "Recomendacion": "Eragon - Christopher Paolini"
+                }
+            }
+        },
+        "OpcionNo": {
+            "Pregunta": "¿Prefieres ciencia ficción dura?",
+            "OpcionSi": {
+                "Pregunta": "¿Con enfoque científico?",
+                "OpcionSi": {
+                    "Recomendacion": "Fundación - Isaac Asimov"
+                },
+                "OpcionNo": {
+                    "Recomendacion": "Neuromante - William Gibson"
+                }
+            },
+            "OpcionNo": {
+                "Pregunta": "¿Algo más ligero y juvenil?",
+                "OpcionSi": {
+                    "Recomendacion": "Ready Player One - Ernest Cline"
+                },
+                "OpcionNo": {
+                    "Recomendacion": "Ender's Game - Orson Scott Card"
+                }
+            }
+        }
+    },
+    "OpcionNo": {
+        "Pregunta": "¿Te interesa la no ficción?",
+        "OpcionSi": {
+            "Pregunta": "¿Sobre crecimiento personal?",
+            "OpcionSi": {
+                "Pregunta": "¿Enfocado en productividad?",
+                "OpcionSi": {
+                    "Recomendacion": "Hábitos atómicos - James Clear"
+                },
+                "OpcionNo": {
+                    "Recomendacion": "El poder del ahora - Eckhart Tolle"
+                }
+            },
+            "OpcionNo": {
+                "Pregunta": "¿Historia o divulgación científica?",
+                "OpcionSi": {
+                    "Recomendacion": "Sapiens - Yuval Noah Harari"
+                },
+                "OpcionNo": {
+                    "Recomendacion": "Breves respuestas a las grandes preguntas - Stephen Hawking"
+                }
+            }
+        },
+        "OpcionNo": {
+            "Pregunta": "¿Prefieres novela clásica o contemporánea?",
+            "OpcionSi": {
+                "Pregunta": "¿Te gustan los conflictos sociales?",
+                "OpcionSi": {
+                    "Recomendacion": "1984 - George Orwell"
+                },
+                "OpcionNo": {
+                    "Recomendacion": "Crimen y castigo - Fiódor Dostoyevski"
+                }
+            },
+            "OpcionNo": {
+                "Pregunta": "¿Romance moderno o suspenso psicológico?",
+                "OpcionSi": {
+                    "Recomendacion": "El proyecto esposa - Graeme Simsion"
+                },
+                "OpcionNo": {
+                    "Recomendacion": "La chica del tren - Paula Hawkins"
+                }
+            }
+        }
+    }
+}
